@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Thirdphase</string>
+    <string name="tvMotto">Bacha Bachao Bharat Bachao</string>
+    <string name="tvStyle">B4</string>
+    <string name="tvAsk">Who are you</string>
+    <string name="btnParent">Parent</string>
+    <string name="btnChild">Child</string>
+    <string name="tvGreet">Hello parent</string>
+    <string name="etName">Enter your Email</string>
+    <string name="tvAskparent">Don\'t have an account?</string>
+    <string name="btnSignin">Sign in</string>
+    <string name="btnSignup">Sign up</string>
+    <string name="etPassword">Enter your Password</string>
+    <string name="btnBack"><![CDATA[<]]></string>
+    <string name="etnamereg">Name</string>
+    <string name="tvRegform">Registration Form</string>
+    <string name="etMail">Enter your Email</string>
+    <string name="etPass">Enter Your Password</string>
+    <string name="etConpass">Confirm Password</string>
+    <string name="btnRegister">Register</string>
+    <string name="tvGreetparents">Welcome to parent Dashboard</string>
+    <string name="btnSignout">Signout</string>
+</resources>
